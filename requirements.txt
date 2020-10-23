@@ -1,4 +1,0 @@
-pip install bokeh
-streamlit==0.69.2
-pandas==0.23.0
-bokeh==2.2.3
